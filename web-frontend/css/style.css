@@ -1,0 +1,9 @@
+:root   {
+    --color-accent: rgb(255, 167, 78);
+}
+
+.portraits_team {
+    height: 150px;
+    border-radius: 50%;
+    overflow: hidden;
+}
