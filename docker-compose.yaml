@@ -1,6 +1,6 @@
 version: "3"
 services:
-  todoapp:
+  webserver-nickylopez:
     build: ./web-frontend
     ports:
      - "80:80"
